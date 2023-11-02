@@ -1,4 +1,4 @@
-import random
+import random #hi
 
 options = ["Rock", "Paper", "Scissors"]
 global user_point, pc_point, arr_user, arr_pc
